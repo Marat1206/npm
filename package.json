@@ -1,0 +1,28 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marat1206/npm.git"
+  },
+  "author": "Marat Zhekov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marat1206/npm/issues"
+  },
+  "homepage": "https://github.com/Marat1206/npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-react": "^7.32.1",
+    "prettier": "^2.8.3"
+  }
+}
